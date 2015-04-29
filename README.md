@@ -6,3 +6,4 @@ a list of things to talk about in our sessions. to be updated whenever inspirati
 * how to read someone else's code?
 * can we talk about MVC a bit?
 * where to start a project in which you only have the final result but you are totally oblivious about where to start and how it can be structured?
+* what is Maven and a Maven artifact?
